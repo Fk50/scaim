@@ -1,0 +1,64 @@
+h1 { font-size:60px;
+     text-align:center;
+	 background-image:url("E:/Najis/Docs/ScAim/Images/h.jpg");
+     color:red;
+	 font-family:fi;
+	 box-shadow:5px 5px 7px 5px red;
+	 animation-name:sk;
+     animation-duration:4s;
+     animation-iteration-count:1;
+   }
+@keyframes sk { 
+            0%{-webkit-transform:skew(0deg,0deg);}
+            50%{-webkit-transform:skew(30deg,30deg);}
+            70%{-webkit-transform:skew(-30deg,-30deg);}
+			80%{color:white;}
+            90%{-webkit-transform:skew(0deg,0deg);}
+			100%{color:red;}
+           }
+   @font-face { font-family:eastlift;
+                src:url("E:/Najis/Docs/ScAim/Fonts/es.ttf");
+   }
+   @font-face { font-family:fi;
+                src:url("E:/Najis/Docs/ScAim/Fonts/as.ttf");
+   }
+   @font-face { font-family:is;
+                src:url("E:/Najis/Docs/ScAim/Fonts/is.ttf");
+   }
+   @font-face { font-family:ls;
+                src:url("E:/Najis/Docs/ScAim/Fonts/ls.ttf");
+   }
+#header { background-image:url("E:/Najis/Docs/ScAim/Images/p.jpg");
+        }
+#content { background-image:url("E:/Najis/Docs/ScAim/Images/w.jpg");
+           box-shadow:5px 5px 7px 5px red;
+         }
+#footer { background-image:url("E:/Najis/Docs/ScAim/Images/m.jpg");
+          box-shadow:5px 5px 7px 5px red;
+        }
+li { font-size:22px;
+     color:red;
+     color:;
+     font-family:is;
+     background-image:url("");
+     list-style-image:url("E:/Najis/Docs/RKGZ/Images/q.png");
+	 border:solid 8px black;
+	 box-shadow:5px 5px 7px 5px red;
+   }
+ul { 
+   }
+p { font-family:ls;
+    font-size:24px;	
+  }
+h4 { font-size:28px;
+     font-family:is;
+	 color:red;
+   }
+h2 { font-family:ls;
+     font-size:23px;
+   }
+   h3 { font-size:20px;
+        font-family:ls;
+      }
+	 
+	      
