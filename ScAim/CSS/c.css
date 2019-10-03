@@ -1,6 +1,6 @@
 h1 { font-size:60px;
      text-align:center;
-     background-image:url("E:/Najis/Docs/ScAim/Images/h.jpg");
+     background-image:url("/scaim/ScAim/Images/h.jpg");
      color:red;
      font-family:fi;
      box-shadow:5px 5px 7px 5px red;
@@ -17,16 +17,16 @@ h1 { font-size:60px;
 			100%{color:red;}
            }
    @font-face { font-family:eastlift;
-                src:url("E:/Najis/Docs/ScAim/Fonts/es.ttf");
+                src:url("/scaim/ScAim/Fonts/es.ttf");
    }
    @font-face { font-family:fi;
-                src:url("E:/Najis/Docs/ScAim/Fonts/as.ttf");
+                src:url("/scaim/ScAim/Fonts/as.ttf");
    }
    @font-face { font-family:is;
-                src:url("E:/Najis/Docs/ScAim/Fonts/is.ttf");
+                src:url("/scaim/ScAim/Fonts/is.ttf");
    }
    @font-face { font-family:ls;
-                src:url("E:/Najis/Docs/ScAim/Fonts/ls.ttf");
+                src:url("/scaim/ScAim/Fonts/ls.ttf");
    }
 p { font-family:ls;
     font-size:24px;	
